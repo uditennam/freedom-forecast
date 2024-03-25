@@ -1,6 +1,8 @@
 # Freedom Forecast
 
 A simple UI to determine when you can be debt-free and achieve your financial targets.
+[Streamlit app link](https://uditennam-freedom-forecast-main-lncb6p.streamlit.app/)
+
 
 ### User inputs
 
